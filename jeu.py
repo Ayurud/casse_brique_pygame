@@ -65,5 +65,4 @@ while en_cours:
     delta = clock.tick(60) / 1000.0
 
 # Fin du programme
-# commentaire
 pygame.quit()
