@@ -14,7 +14,7 @@ HAUTEUR_FENETRE = 720
 
 # Création de la fenêtre
 fenetre = pygame.display.set_mode((LARGEUR_FENETRE, HAUTEUR_FENETRE))
-pygame.display.set_caption("Test - py game")
+pygame.display.set_caption("SPEEDRUN LE CASSE BRIQUE - py game")
 
 # Création de la surface
 canvas = pygame.Surface((LARGEUR_INTERNE, HAUTEUR_INTERNE), pygame.SRCALPHA)
